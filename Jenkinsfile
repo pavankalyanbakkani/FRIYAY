@@ -11,7 +11,7 @@ pipeline {
                 echo 'Pavan kalyan bakkani'
                 echo 'Bridger, Neeeeeeeeeeeeeeeey'
                 echo 'Bridger, Neeebbbbbbeeeeeeeeeeeeey'
-                echo 'Bridger, Neeeeeeeeeeeeeeehhhhhhhhhhhhhhhhhey'
+                echo 'Bridger, Neeeeeeeehhhhhhhhhhhhhhhhhey'
              
                
             }
