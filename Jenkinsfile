@@ -22,6 +22,7 @@ pipeline {
                 echo 'Suncity'
                 echo 'Hyuderabad'
                 echo 'Suniiiiiity'
+                sleep 3000
               
             }
         }
